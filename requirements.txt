@@ -2,4 +2,4 @@ streamlit
 pandas
 geopy
 pydeck
-
+openpyxl
